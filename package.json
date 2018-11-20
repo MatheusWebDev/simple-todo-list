@@ -1,0 +1,32 @@
+{
+  "name": "simple-todo-list",
+  "version": "1.0.0",
+  "description": "Simples App de Lista de Tarefas em jQuery",
+  "main": "index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusWebDev/simple-todo-list.git"
+  },
+  "author": "Matheus Fernandes [MatheusWebDev]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusWebDev/simple-todo-list/issues"
+  },
+  "homepage": "https://github.com/MatheusWebDev/simple-todo-list#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
