@@ -1,6 +1,7 @@
 # App Lista de Tarefas 
-Simples aplicativo de Lista de Tarefas feito em jQuery.
-Exercicio prático do curso [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+Simples aplicativo de Lista de Tarefas feito em jQuery.\
+Exercicio prático do curso [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/).\
+Veja Demo [AQUI](https://matheuswebdev.github.io/simple-todo-list/).
 
 ## Desenvolvido com
 
