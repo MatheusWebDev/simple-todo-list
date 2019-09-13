@@ -27,8 +27,8 @@ module.exports = function (grunt) {
       },
       watch: {
          dev: {
-            files: ["app/**/*.js", "app/**/*.css", "app/**/*.html"],
-            tasks: ["refresh"],
+            files: ['app/**/*.js', 'app/**/*.css', 'app/**/*.html'],
+            tasks: ['refresh'],
             options: {
                spawn: false
             }
@@ -42,6 +42,6 @@ module.exports = function (grunt) {
    grunt.loadNpmTasks('grunt-contrib-copy');
 
    // TAREFAS
-   grunt.registerTask("default", ["jshint", "clean", "copy", "watch"]);
-   grunt.registerTask("refresh", ["jshint", "clean", "copy"]);
+   grunt.registerTask('default', ['jshint', 'clean', 'copy', 'watch']);
+   grunt.registerTask('refresh', ['jshint', 'clean', 'copy']);
 };
