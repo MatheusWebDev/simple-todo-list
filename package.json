@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/MatheusWebDev/simple-todo-list#readme",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "grunt": "^1.0.4",
